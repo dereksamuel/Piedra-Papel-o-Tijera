@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+2&display=swap');
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: rgb(255, 142, 142);
+}
+
+h2 {
+    font-family: 'Baloo 2', cursive;
+    text-align: center;
+    color: rgb(167, 84, 84);
+}
+
+img {
+    width: 250px;
+    border: 2px solid rgb(170, 215, 241);
+    margin-top: 4vh;
+    background-color: rgb(114, 208, 236);
+    margin-left: 3vh;
+}
+
+img:hover {
+    cursor: pointer;
+    background-color: rgb(178, 227, 241);
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    margin-top: 4vh;
+    float: inline-end;
+    background-color: lightcoral;
+    color: blanchedalmond;
+    font-family: 'Baloo 2', cursive;
+    font-size: 20px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: rgb(245, 171, 171);
+}
+
+#regulador {
+    width: 855px;
+    padding: 16px;
+    height: 47vh;
+    background-color: rgb(189, 189, 189);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#regulador2 {
+    width: 855px;
+    padding: 16px;
+    height: 20vh;
+    background-color: rgb(189, 189, 189);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
